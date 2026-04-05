@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<Hi, I'm Tarun, 👋
 
-🚀 Frontend Developer focused on building scalable, high-performance web apps.
+🚀 Frontend Developer building scalable and performance-focused web applications.
 
 ---
 
 ## 🧠 About Me
 - 💻 Working with React, JavaScript, Tailwind
-- 📦 Building real-world projects (not tutorials)
-- 🌍 Targeting international frontend roles
-- ⚡ Focused on clean UI architecture & performance
+- 🔁 Currently rebuilding my flagship project: **I-PAY**
+- 🌍 Targeting global frontend opportunities
+- ⚡ Focused on clean UI architecture
 
 ---
 
@@ -22,17 +21,24 @@
 
 ---
 
-## 📌 Current Focus
-- Building production-level projects
+## 🚀 Current Project
+### 🔹 I-PAY (Rebuild)
+Building a modern payment UI system from scratch with a focus on scalability and clean architecture.
+
+---
+
+## 📈 Current Focus
+- Writing production-level code
 - Improving system design thinking
-- Contributing to open source (soon)
+- Building projects in public
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: [add later]
-- Portfolio: [add later]
+## 📫 Connect (Coming Soon)
+- LinkedIn
+- Portfolio
 
 ---
 
-⭐ “I don't just build UI, I design user experiences.”
+⭐ “I don't just build UI, I engineer frontend systems.”
+
