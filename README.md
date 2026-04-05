@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**Tarun-webengineer/Tarun-webengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<Hi, I'm Tarun, 👋
 
-Here are some ideas to get you started:
+🚀 Frontend Developer focused on building scalable, high-performance web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 💻 Working with React, JavaScript, Tailwind
+- 📦 Building real-world projects (not tutorials)
+- 🌍 Targeting international frontend roles
+- ⚡ Focused on clean UI architecture & performance
+
+---
+
+## 🛠 Tech Stack
+- React
+- JavaScript (ES6+)
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+## 📌 Current Focus
+- Building production-level projects
+- Improving system design thinking
+- Contributing to open source (soon)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [add later]
+- Portfolio: [add later]
+
+---
+
+⭐ “I don't just build UI, I design user experiences.”
